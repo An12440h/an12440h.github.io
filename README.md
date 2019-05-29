@@ -1,6 +1,4 @@
-## Hanis Irfan
-
-Welcome to this simple GitHub page.
+## Welcome to this simple GitHub page.
 
 All of my projects will be publish here.
 
